@@ -1,5 +1,5 @@
 /*
-Adafruit Arduino - Lesson 14. Sweep
+Testing each arm to see if its function, this is general servo testing code from adafruit
 */
  
 #include <Servo.h> 
