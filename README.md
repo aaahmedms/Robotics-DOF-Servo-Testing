@@ -1,2 +1,2 @@
 # Robotics-DOF-Servo-Testing
-Testing 6 DOF Arm Mechanical Robotic Arm
+Testing 6 DOF Mechanical Robotic Arm
