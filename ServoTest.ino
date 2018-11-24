@@ -1,5 +1,5 @@
 /*
-Testing each arm to see if its function, this is general servo testing code from adafruit
+Testing each arm to see if its functional
 */
  
 #include <Servo.h> 
